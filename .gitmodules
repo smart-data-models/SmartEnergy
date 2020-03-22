@@ -1,0 +1,3 @@
+[submodule "dataModel.Energy"]
+	path = dataModel.Energy
+	url = https://github.com/smart-data-models/dataModel.Energy.git
