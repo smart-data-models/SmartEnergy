@@ -1,9 +1,6 @@
 [submodule "dataModel.GreenEnergy"]
 	path = dataModel.GreenEnergy
 	url = https://github.com/smart-data-models/dataModel.GreenEnergy.git
-[submodule "dataModel.EnergyCIM"]
-	path = dataModel.EnergyCIM
-	url = https://github.com/smart-data-models/dataModel.EnergyCIM.git
 [submodule "dataModel.Energy"]
 	path = dataModel.Energy
 	url = https://github.com/smart-data-models/dataModel.Energy.git
