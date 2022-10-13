@@ -17,4 +17,9 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.Battery](https://github.com/smart-data-models/dataModel.Battery)
 * [dataModel.EnergyCIM](https://github.com/smart-data-models/dataModel.EnergyCIM)
 * [dataModel.Consumption](https://github.com/smart-data-models/dataModel.Consumption)
+If you want to be update you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
+You can also rise a issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
+You can contribute by using the [contribution manual](https://bit.ly/contribution_manual) on the [incubated repository](https://github.com/smart-data-models/incubated/tree/master)
+finally you can book a live support session in [this service](https://calendly.com/smartdatamodels)
+follow us on [Twitter](https://twitter.com/smartdatamodels) and [Linkedin](https://www.linkedin.com/company/72642317/)
 
