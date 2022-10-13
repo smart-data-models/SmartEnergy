@@ -17,7 +17,8 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.EnergyCIM](https://github.com/smart-data-models/dataModel.EnergyCIM)
 * [dataModel.GreenEnergy](https://github.com/smart-data-models/dataModel.GreenEnergy)
 * [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
-## SupportIf you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
+## Support
+If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
 You can also rise an issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
 You can contribute by using the [contribution manual](https://bit.ly/contribution_manual) on the [incubated repository](https://github.com/smart-data-models/incubated/tree/master)
 Finally you can book a live support session in [this service](https://calendly.com/smartdatamodels)
