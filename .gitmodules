@@ -1,9 +1,6 @@
 [submodule "Consumption"]
 	path = Consumption
 	url = https://github.com/smart-data-models/Consumption.git
-[submodule "dataModel.Consumption"]
-	path = dataModel.Consumption
-	url = https://github.com/smart-data-models/dataModel.Consumption.git
 [submodule "dataModel.Energy"]
 	path = dataModel.Energy
 	url = https://github.com/smart-data-models/dataModel.Energy.git
